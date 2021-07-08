@@ -7,8 +7,8 @@ import numpy as np
 from tqdm import tqdm
 import cv2
 
-PATH_TRANSFORM = r'C:\Users\Athrva Pandhare\Desktop\New folder (4)\laplacian'
-PATH_PROCESSED = r'C:\Users\Athrva Pandhare\Desktop\New folder (4)\real'
+PATH_TRANSFORM = r'/content/drive/My Drive/laplacian'
+PATH_PROCESSED = r'/content/drive/My Drive/real'
 
 BUFFER_SIZE = 400
 BATCH_SIZE = 1
