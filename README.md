@@ -4,7 +4,7 @@ The codebase in the repository is not final and hence is not very clean. At the 
 and models.
 
 # Results
-After training for about 90 epochs, here are the results.
+After training for about 90 epochs, here are the results. The images were nither in the training dataset nor the testing dataset (i.e., these are completely new images that the network has never seen before).
 ## Laplacian
 ![alt text](https://github.com/NonStopEagle137/Laplacian2Art/blob/main/images/A_lap.jpg)
 ## Generated Image
