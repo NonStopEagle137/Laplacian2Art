@@ -14,6 +14,6 @@ After training for about 90 epochs, here are the results.
 ## Generated Image
 ![alt text](https://github.com/NonStopEagle137/Laplacian2Art/blob/main/images/gen_B.jpg)
 ## Laplacian
-![alt text](https://github.com/NonStopEagle137/Laplacian2Art/blob/main/images/B_lap.jpg)
+![alt text](https://github.com/NonStopEagle137/Laplacian2Art/blob/main/images/C_lap.jpg)
 ## Generated Image
-![alt text](https://github.com/NonStopEagle137/Laplacian2Art/blob/main/images/gen_B.jpg)
+![alt text](https://github.com/NonStopEagle137/Laplacian2Art/blob/main/images/gen_C.jpg)
